@@ -1,0 +1,9 @@
+{
+  "name": "todoLambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todoLambda.js",
+  "dependencies": {
+    "aws-sdk": "^2.355.0"
+  }
+}
